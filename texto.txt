@@ -1,1 +1,4 @@
 esto es un texto
+hola mundo
+
+git remote add origin git@github.com:peraltahernandezcarmen@gmail.com/tallerGit.git
